@@ -6,12 +6,18 @@ Tech Lead - Blockchain Developer
 
 I'm a seasoned Tech Lead and Full Stack Web3 Developer with 4+ years of experience and passion for blockchain technology and its potential to revolutionize industries. I have extensive experience in blockchain development with a particular focus on building advanced smart contracts and decentralized applications. As a tech lead, I'm able to effectively communicate and collaborate with cross-functional teams to deliver products that meet business objectives.
 
-*   🌍  I'm based in India
-*   ✉️  You can contact me at [rvenki666@gmail.com](mailto:rvenki666@gmail.com)
-*   🚀  I'm currently working on [OP Games](http://arcadia.fun/)
-*   🧠  I'm learning New trends in Blockchain and Rust
-*   🤝  I'm open to collaborating on Defi, SocialFi, NFT, GameFi based projects in blockchain ecosystem.<a href="https://www.github.com/venkatesh16031999" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/venkatesh16031999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in India
+* ✉️  You can contact me at [rvenki666@gmail.com](mailto:rvenki666@gmail.com)
+* 🚀  I'm currently working on [OP Games](http://arcadia.fun/)
+* 🧠  I'm learning New trends in Blockchain and Rust
+* 🤝  I'm open to collaborating on Defi, SocialFi, NFT, GameFi based projects in blockchain ecosystem.
+
+<a href="https://www.github.com/venkatesh16031999" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/venkatesh16031999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -39,17 +45,16 @@ I'm a seasoned Tech Lead and Full Stack Web3 Developer with 4+ years of experien
 <a href="https://aave.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" alt="AAVE" /></a>
 <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/CryptoDeveloper#3494" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/venkatesh16031999" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/venkatesh16031999" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/venkatesh16031999"><img src="https://github-readme-stats.vercel.app/api?username=venkatesh16031999&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="venkatesh16031999's GitHub stats" /></a><a
-                      href="http://www.github.com/venkatesh16031999"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh16031999&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/CryptoDeveloper#3494" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/venkatesh16031999" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/venkatesh16031999" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/venkatesh16031999"><img src="https://github-readme-stats.vercel.app/api?username=venkatesh16031999&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="venkatesh16031999's GitHub stats" /></a>
+
+<a href="http://www.github.com/venkatesh16031999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh16031999&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
