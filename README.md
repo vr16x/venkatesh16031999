@@ -8,9 +8,11 @@ I'm a seasoned Tech Lead and Full Stack Web3 Developer with 4+ years of experien
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rvenki666@gmail.com](mailto:rvenki666@gmail.com)
+* 💻  My portfolio website: [www.venkateshweb3.com](https://www.venkateshweb3.com/)
 * 🚀  I'm currently working on [OP Games](http://arcadia.fun/)
 * 🧠  I'm learning New trends in Blockchain and Rust
 * 🤝  I'm open to collaborating on Defi, SocialFi, NFT, GameFi based projects in blockchain ecosystem.
+  
 
 <a href="https://www.github.com/venkatesh16031999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/venkatesh16031999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
