@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Tech Lead - Blockchain Developer
 --------------------------------
 
-I'm a seasoned Tech Lead and Full Stack Web3 Developer with 4+ years of experience and passion for blockchain technology and its potential to revolutionize industries. I have extensive experience in blockchain development with a particular focus on building advanced smart contracts and decentralized applications. As a tech lead, I'm able to effectively communicate and collaborate with cross-functional teams to deliver products that meet business objectives.
+Tech Lead and Blockchain Engineer with 5 years of hands-on experience in blockchain development, I am a dedicated professional specializing in Ethereum blockchain technology and limited expertise in the Solana blockchain. My expertise lies in developing secured smart contracts, decentralized backend systems, P2P nodes, and frontend for apps. I have collaborated with cross-functional teams throughout my career to design and implement blockchain-based solutions for various use cases such as Tokenization, GameFi, DeFi, NFTs, Marketplace, DAO, SocialFi, etc.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rvenki666@gmail.com](mailto:rvenki666@gmail.com)
 * 💻  My portfolio website: [www.venkateshweb3.com](https://www.venkateshweb3.com/)
 * 🚀  I'm currently working on [OP Games](http://arcadia.fun/)
 * 🧠  I'm learning New trends in Blockchain and Rust
-* 🤝  I'm open to collaborating on Defi, SocialFi, NFT, GameFi based projects in blockchain ecosystem.
+* 🤝  I'm open to collaborating on Defi, SocialFi, NFT, and GameFi-based projects in the blockchain ecosystem.
   
 
 <a href="https://www.github.com/venkatesh16031999" target="_blank" rel="noreferrer"><img
