@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Venkatesh Rajendran
 ===========================================================================================================================================
 
-Tech Lead - Blockchain Developer
+Tech Lead And Blockchain Developer
 --------------------------------
 
-Tech Lead and Blockchain Engineer with 5 years of hands-on experience in blockchain development, I am a dedicated professional specializing in Ethereum blockchain technology and limited expertise in the Solana blockchain. My expertise lies in developing secured smart contracts, decentralized backend systems, P2P nodes, and frontend for apps. I have collaborated with cross-functional teams throughout my career to design and implement blockchain-based solutions for various use cases such as Tokenization, GameFi, DeFi, NFTs, Marketplace, DAO, SocialFi, etc.
+Tech Lead and Blockchain Engineer with 5 years of experience developing decentralized cross-chain protocols, smart contracts, backend, and p2p infrastructures, enabling web3 for over 150,000 users. Proven expertise in building robust infrastructures for GameFi and DeFi, prioritizing security and scalability. Adept at leading cross-functional teams to deliver innovative Web3 solutions across diverse domains, including GameFi, DeFi, NFTs, Account Abstraction, AI Agents, SocialFi, and ZK.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rvenki666@gmail.com](mailto:rvenki666@gmail.com)
