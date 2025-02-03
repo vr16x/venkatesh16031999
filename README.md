@@ -12,6 +12,9 @@ Tech Lead and Blockchain Engineer with 5 years of experience developing decentra
 * 🚀  I'm currently working on [OP Games](http://arcadia.fun/)
 * 🧠  I'm learning New trends in Blockchain and Rust
 * 🤝  I'm open to collaborating on Defi, SocialFi, NFT, and GameFi-based projects in the blockchain ecosystem.
+
+### Resume: [download here](https://github.com/vr16x/venkatesh16031999/raw/main/path/to/Venkatesh-Resume.pdf)
+
   
 
 <a href="https://www.github.com/venkatesh16031999" target="_blank" rel="noreferrer"><img
